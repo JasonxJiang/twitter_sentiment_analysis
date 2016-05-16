@@ -1,0 +1,5 @@
+hello! welcome to my twitter app
+about to retrieve json data
+Finished getting json data processing json data
+{"search_metadata": {"count": 1, "completed_in": 0.011, "max_id_str": "731989184982962177", "since_id_str": "0", "refresh_url": "?since_id=731989184982962177&q=%23trump2016&lang=en&result_type=recent&include_entities=1", "since_id": 0, "query": "%23trump2016", "max_id": 731989184982962177}, "statuses": []}
+Finished converting your tweets into a text file you can find it in sanders100.txt

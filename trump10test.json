@@ -1,0 +1,2628 @@
+{
+	"search_metadata": {
+		"count": 10,
+		"completed_in": 0.047,
+		"max_id_str": "732000827473285121",
+		"since_id_str": "0",
+		"next_results": "?max_id=732000781273038847&q=trump2016&lang=en&count=10&include_entities=1&result_type=recent",
+		"refresh_url": "?since_id=732000827473285121&q=trump2016&lang=en&result_type=recent&include_entities=1",
+		"since_id": 0,
+		"query": "trump2016",
+		"max_id": 732000827473285121
+	},
+	"statuses": [{
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @DanScavino: #TrumpTrain\ud83d\ude82\ud83d\udca8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8loves @realDonaldTrump #BTS video!\u2714\ufe0fout the \ud83d\ude82\ud83d\udca8\ud83c\uddfa\ud83c\uddf8 who came to say goodbye at airport! #Trump2016 https:\u2026",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000827473285121,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 620571475,
+				"indices": [3, 14],
+				"id_str": "620571475",
+				"screen_name": "DanScavino",
+				"name": "Dan Scavino Jr."
+			}, {
+				"id": 25073877,
+				"indices": [43, 59],
+				"id_str": "25073877",
+				"screen_name": "realDonaldTrump",
+				"name": "Donald J. Trump"
+			}],
+			"hashtags": [{
+				"indices": [16, 27],
+				"text": "TrumpTrain"
+			}, {
+				"indices": [60, 64],
+				"text": "BTS"
+			}, {
+				"indices": [122, 132],
+				"text": "Trump2016"
+			}],
+			"urls": [],
+			"media": [{
+				"source_user_id": 620571475,
+				"source_status_id_str": "731926081117278208",
+				"expanded_url": "http://twitter.com/DanScavino/status/731926081117278208/video/1",
+				"display_url": "pic.twitter.com/ZGbTnzt56M",
+				"url": "https://t.co/ZGbTnzt56M",
+				"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/731925718653788162/pu/img/MN3s781LPMDEjcDi.jpg",
+				"source_user_id_str": "620571475",
+				"source_status_id": 731926081117278208,
+				"id_str": "731925718653788162",
+				"sizes": {
+					"small": {
+						"h": 191,
+						"resize": "fit",
+						"w": 340
+					},
+					"large": {
+						"h": 576,
+						"resize": "fit",
+						"w": 1024
+					},
+					"medium": {
+						"h": 338,
+						"resize": "fit",
+						"w": 600
+					},
+					"thumb": {
+						"h": 150,
+						"resize": "crop",
+						"w": 150
+					}
+				},
+				"indices": [139, 140],
+				"type": "photo",
+				"id": 731925718653788162,
+				"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/731925718653788162/pu/img/MN3s781LPMDEjcDi.jpg"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 557,
+		"id_str": "732000827473285121",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "#TrumpTrain\ud83d\ude82\ud83d\udca8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8loves @realDonaldTrump #BTS video!\u2714\ufe0fout the \ud83d\ude82\ud83d\udca8\ud83c\uddfa\ud83c\uddf8 who came to say goodbye at airport! #Trump2016 https://t.co/ZGbTnzt56M",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731926081117278208,
+			"favorite_count": 979,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [{
+					"id": 25073877,
+					"indices": [27, 43],
+					"id_str": "25073877",
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump"
+				}],
+				"hashtags": [{
+					"indices": [0, 11],
+					"text": "TrumpTrain"
+				}, {
+					"indices": [44, 48],
+					"text": "BTS"
+				}, {
+					"indices": [106, 116],
+					"text": "Trump2016"
+				}],
+				"urls": [],
+				"media": [{
+					"expanded_url": "http://twitter.com/DanScavino/status/731926081117278208/video/1",
+					"display_url": "pic.twitter.com/ZGbTnzt56M",
+					"url": "https://t.co/ZGbTnzt56M",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/731925718653788162/pu/img/MN3s781LPMDEjcDi.jpg",
+					"id_str": "731925718653788162",
+					"sizes": {
+						"small": {
+							"h": 191,
+							"resize": "fit",
+							"w": 340
+						},
+						"large": {
+							"h": 576,
+							"resize": "fit",
+							"w": 1024
+						},
+						"medium": {
+							"h": 338,
+							"resize": "fit",
+							"w": 600
+						},
+						"thumb": {
+							"h": 150,
+							"resize": "crop",
+							"w": 150
+						}
+					},
+					"indices": [117, 140],
+					"type": "photo",
+					"id": 731925718653788162,
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/731925718653788162/pu/img/MN3s781LPMDEjcDi.jpg"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 557,
+			"id_str": "731926081117278208",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": false,
+				"profile_use_background_image": true,
+				"default_profile_image": false,
+				"id": 620571475,
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627165912412626944/ycCg68Qq.jpg",
+				"verified": true,
+				"profile_text_color": "000000",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725919869485486080/QzKhdkEC_normal.jpg",
+				"profile_sidebar_fill_color": "000000",
+				"entities": {
+					"url": {
+						"urls": [{
+							"url": "https://t.co/mZB2hymxC9",
+							"indices": [0, 23],
+							"expanded_url": "http://www.DonaldJTrump.com",
+							"display_url": "DonaldJTrump.com"
+						}]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 98212,
+				"profile_sidebar_border_color": "000000",
+				"id_str": "620571475",
+				"profile_background_color": "131516",
+				"listed_count": 1079,
+				"is_translation_enabled": false,
+				"utc_offset": -14400,
+				"statuses_count": 7102,
+				"description": "Director of Social Media & Senior Adviser. Check out @realDonaldTrump #Twitter #Facebook #Instagram! #SMM #MakeAmericaGreatAgain Engineer of the #TrumpTrain",
+				"friends_count": 158,
+				"location": "Campaign Trail, USA",
+				"profile_link_color": "3B94D9",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725919869485486080/QzKhdkEC_normal.jpg",
+				"following": false,
+				"geo_enabled": true,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1462470846",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627165912412626944/ycCg68Qq.jpg",
+				"screen_name": "DanScavino",
+				"lang": "en",
+				"profile_background_tile": true,
+				"favourites_count": 2140,
+				"name": "Dan Scavino Jr.",
+				"notifications": false,
+				"url": "https://t.co/mZB2hymxC9",
+				"created_at": "Thu Jun 28 02:45:39 +0000 2012",
+				"contributors_enabled": false,
+				"time_zone": "Eastern Time (US & Canada)",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 19:15:50 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"default_profile_image": true,
+			"id": 725131828600930305,
+			"profile_background_image_url_https": null,
+			"verified": false,
+			"profile_text_color": "333333",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 42,
+			"profile_sidebar_border_color": "C0DEED",
+			"id_str": "725131828600930305",
+			"profile_background_color": "F5F8FA",
+			"listed_count": 1,
+			"is_translation_enabled": false,
+			"utc_offset": null,
+			"statuses_count": 78,
+			"description": "",
+			"friends_count": 133,
+			"location": "",
+			"profile_link_color": "2B7BB9",
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+			"following": false,
+			"geo_enabled": false,
+			"profile_background_image_url": null,
+			"screen_name": "cutebabies7g",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 377,
+			"name": "Joanna Prince",
+			"notifications": false,
+			"url": null,
+			"created_at": "Wed Apr 27 01:17:55 +0000 2016",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"protected": false,
+			"default_profile": true,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:51 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @LindaSuhler: Huckabee Scolds Anti-Trump Conservatives: You Should Be Thanking Him for Broadening the Base\n#UNIFY\u27a1\ufe0f #Trump2016\ud83c\uddfa\ud83c\uddf8\nhttps:/\u2026",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000824591716352,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 347627434,
+				"indices": [3, 15],
+				"id_str": "347627434",
+				"screen_name": "LindaSuhler",
+				"name": "Linda Suhler, Ph.D."
+			}],
+			"hashtags": [{
+				"indices": [110, 116],
+				"text": "UNIFY"
+			}, {
+				"indices": [119, 129],
+				"text": "Trump2016"
+			}],
+			"urls": [{
+				"url": "https://t.co/qPW7Rp7KtW",
+				"indices": [139, 140],
+				"expanded_url": "http://www.breitbart.com/2016-presidential-race/2016/05/15/huckabee-scolds-anti-trump-conservatives-thanking-donald/",
+				"display_url": "breitbart.com/2016-president\u2026"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 69,
+		"id_str": "732000824591716352",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "Huckabee Scolds Anti-Trump Conservatives: You Should Be Thanking Him for Broadening the Base\n#UNIFY\u27a1\ufe0f #Trump2016\ud83c\uddfa\ud83c\uddf8\nhttps://t.co/qPW7Rp7KtW",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731994669236682752,
+			"favorite_count": 79,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [],
+				"hashtags": [{
+					"indices": [93, 99],
+					"text": "UNIFY"
+				}, {
+					"indices": [102, 112],
+					"text": "Trump2016"
+				}],
+				"urls": [{
+					"url": "https://t.co/qPW7Rp7KtW",
+					"indices": [115, 138],
+					"expanded_url": "http://www.breitbart.com/2016-presidential-race/2016/05/15/huckabee-scolds-anti-trump-conservatives-thanking-donald/",
+					"display_url": "breitbart.com/2016-president\u2026"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 69,
+			"id_str": "731994669236682752",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": false,
+				"profile_use_background_image": true,
+				"default_profile_image": false,
+				"id": 347627434,
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/691013490786480128/DOyk-OXN.png",
+				"verified": false,
+				"profile_text_color": "333333",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695707690052378625/hFDUabnq_normal.png",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"entities": {
+					"url": {
+						"urls": [{
+							"url": "https://t.co/q1fY4qd8kt",
+							"indices": [0, 23],
+							"expanded_url": "http://www.facebook.com/LindaCSuhler",
+							"display_url": "facebook.com/LindaCSuhler"
+						}]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 220771,
+				"profile_sidebar_border_color": "FFFFFF",
+				"id_str": "347627434",
+				"profile_background_color": "3B94D9",
+				"listed_count": 1827,
+				"is_translation_enabled": false,
+				"utc_offset": -25200,
+				"statuses_count": 178413,
+				"description": "Support Donald Trump for President! AMERICA FIRST Christian supports Family~Constitution~Capitalism~ 2A~NRA~Military~Police~Israel #SecureTheBorder #TeamTrump",
+				"friends_count": 131239,
+				"location": "God Bless America!",
+				"profile_link_color": "DD2E44",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695707690052378625/hFDUabnq_normal.png",
+				"following": false,
+				"geo_enabled": true,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/347627434/1462987104",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691013490786480128/DOyk-OXN.png",
+				"screen_name": "LindaSuhler",
+				"lang": "en",
+				"profile_background_tile": true,
+				"favourites_count": 14323,
+				"name": "Linda Suhler, Ph.D.",
+				"notifications": false,
+				"url": "https://t.co/q1fY4qd8kt",
+				"created_at": "Wed Aug 03 03:00:30 +0000 2011",
+				"contributors_enabled": false,
+				"time_zone": "Arizona",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 23:48:23 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"default_profile_image": true,
+			"id": 706270725007499264,
+			"profile_background_image_url_https": null,
+			"verified": false,
+			"profile_text_color": "333333",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 8,
+			"profile_sidebar_border_color": "C0DEED",
+			"id_str": "706270725007499264",
+			"profile_background_color": "F5F8FA",
+			"listed_count": 0,
+			"is_translation_enabled": false,
+			"utc_offset": null,
+			"statuses_count": 172,
+			"description": "",
+			"friends_count": 104,
+			"location": "",
+			"profile_link_color": "2B7BB9",
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+			"following": false,
+			"geo_enabled": false,
+			"profile_background_image_url": null,
+			"screen_name": "haynie_judy",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 144,
+			"name": "grazababy",
+			"notifications": false,
+			"url": null,
+			"created_at": "Sun Mar 06 00:10:37 +0000 2016",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"protected": false,
+			"default_profile": true,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:51 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @Always_Trump: 50 Cent with 10 Billion #Trump #Trump2016 #RareTrump https://t.co/AahB4MXEkB",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000817998381056,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 710990834972233728,
+				"indices": [3, 16],
+				"id_str": "710990834972233728",
+				"screen_name": "Always_Trump",
+				"name": "ALWAYS TRUMP!"
+			}],
+			"hashtags": [{
+				"indices": [42, 48],
+				"text": "Trump"
+			}, {
+				"indices": [49, 59],
+				"text": "Trump2016"
+			}, {
+				"indices": [60, 70],
+				"text": "RareTrump"
+			}],
+			"urls": [],
+			"media": [{
+				"source_user_id": 710990834972233728,
+				"source_status_id_str": "731982591872503808",
+				"expanded_url": "http://twitter.com/Always_Trump/status/731982591872503808/photo/1",
+				"display_url": "pic.twitter.com/AahB4MXEkB",
+				"url": "https://t.co/AahB4MXEkB",
+				"media_url_https": "https://pbs.twimg.com/media/CigsmWdUYAEOuBr.jpg",
+				"source_user_id_str": "710990834972233728",
+				"source_status_id": 731982591872503808,
+				"id_str": "731883976822906881",
+				"sizes": {
+					"large": {
+						"h": 640,
+						"resize": "fit",
+						"w": 640
+					},
+					"small": {
+						"h": 340,
+						"resize": "fit",
+						"w": 340
+					},
+					"medium": {
+						"h": 600,
+						"resize": "fit",
+						"w": 600
+					},
+					"thumb": {
+						"h": 150,
+						"resize": "crop",
+						"w": 150
+					}
+				},
+				"indices": [71, 94],
+				"type": "photo",
+				"id": 731883976822906881,
+				"media_url": "http://pbs.twimg.com/media/CigsmWdUYAEOuBr.jpg"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 57,
+		"id_str": "732000817998381056",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "50 Cent with 10 Billion #Trump #Trump2016 #RareTrump https://t.co/AahB4MXEkB",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731982591872503808,
+			"favorite_count": 78,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [],
+				"hashtags": [{
+					"indices": [24, 30],
+					"text": "Trump"
+				}, {
+					"indices": [31, 41],
+					"text": "Trump2016"
+				}, {
+					"indices": [42, 52],
+					"text": "RareTrump"
+				}],
+				"urls": [],
+				"media": [{
+					"expanded_url": "http://twitter.com/Always_Trump/status/731982591872503808/photo/1",
+					"display_url": "pic.twitter.com/AahB4MXEkB",
+					"url": "https://t.co/AahB4MXEkB",
+					"media_url_https": "https://pbs.twimg.com/media/CigsmWdUYAEOuBr.jpg",
+					"id_str": "731883976822906881",
+					"sizes": {
+						"large": {
+							"h": 640,
+							"resize": "fit",
+							"w": 640
+						},
+						"small": {
+							"h": 340,
+							"resize": "fit",
+							"w": 340
+						},
+						"medium": {
+							"h": 600,
+							"resize": "fit",
+							"w": 600
+						},
+						"thumb": {
+							"h": 150,
+							"resize": "crop",
+							"w": 150
+						}
+					},
+					"indices": [53, 76],
+					"type": "photo",
+					"id": 731883976822906881,
+					"media_url": "http://pbs.twimg.com/media/CigsmWdUYAEOuBr.jpg"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 57,
+			"id_str": "731982591872503808",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": true,
+				"profile_use_background_image": false,
+				"default_profile_image": false,
+				"id": 710990834972233728,
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"verified": false,
+				"profile_text_color": "000000",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/724883692255059969/8n6E3KFu_normal.jpg",
+				"profile_sidebar_fill_color": "000000",
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 17119,
+				"profile_sidebar_border_color": "000000",
+				"id_str": "710990834972233728",
+				"profile_background_color": "000000",
+				"listed_count": 100,
+				"is_translation_enabled": false,
+				"utc_offset": -25200,
+				"statuses_count": 2353,
+				"description": "The MOST ACTIVE source for #Trump breaking news, poll numbers, speeches, videos, memes, & anything else you can think of - with a dash of humor. #AlwaysTrump",
+				"friends_count": 16341,
+				"location": "Nashville, TN",
+				"profile_link_color": "D42427",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/724883692255059969/8n6E3KFu_normal.jpg",
+				"following": false,
+				"geo_enabled": false,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/710990834972233728/1461712834",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"screen_name": "Always_Trump",
+				"lang": "en",
+				"profile_background_tile": false,
+				"favourites_count": 8092,
+				"name": "ALWAYS TRUMP!",
+				"notifications": false,
+				"url": null,
+				"created_at": "Sat Mar 19 00:46:39 +0000 2016",
+				"contributors_enabled": false,
+				"time_zone": "Pacific Time (US & Canada)",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 23:00:24 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": false,
+			"default_profile_image": false,
+			"id": 711166291181178880,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"verified": false,
+			"profile_text_color": "000000",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/730532092254117894/x-9sl6d8_normal.jpg",
+			"profile_sidebar_fill_color": "000000",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 204,
+			"profile_sidebar_border_color": "000000",
+			"id_str": "711166291181178880",
+			"profile_background_color": "000000",
+			"listed_count": 7,
+			"is_translation_enabled": false,
+			"utc_offset": null,
+			"statuses_count": 2836,
+			"description": "Objectively trying to find out what is happening to the economy of the US and globally, Agenda 21, George Soros, Saul Alinsky, and Cloward-Piven. Seeking truth.",
+			"friends_count": 102,
+			"location": "Connecticut, USA",
+			"profile_link_color": "1B95E0",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/730532092254117894/x-9sl6d8_normal.jpg",
+			"following": false,
+			"geo_enabled": false,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/711166291181178880/1458391879",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"screen_name": "ObjectiveMs",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 2789,
+			"name": "Objectively yours",
+			"notifications": false,
+			"url": null,
+			"created_at": "Sat Mar 19 12:23:51 +0000 2016",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"protected": false,
+			"default_profile": false,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:49 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @trump_world: New Poll! \nGEORGIA\n#Trump 45% \n#CrookedHillary 41% \n#Trump2016\n#MakeAmericaGreatAgain \n'Taking Our Country Back!' https://\u2026",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000813783130113,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 205644304,
+				"indices": [3, 15],
+				"id_str": "205644304",
+				"screen_name": "trump_world",
+				"name": "TRUMP WORLD"
+			}],
+			"hashtags": [{
+				"indices": [36, 42],
+				"text": "Trump"
+			}, {
+				"indices": [48, 63],
+				"text": "CrookedHillary"
+			}, {
+				"indices": [69, 79],
+				"text": "Trump2016"
+			}, {
+				"indices": [80, 102],
+				"text": "MakeAmericaGreatAgain"
+			}],
+			"urls": [],
+			"media": [{
+				"source_user_id": 205644304,
+				"source_status_id_str": "731997009289347072",
+				"expanded_url": "http://twitter.com/trump_world/status/731997009289347072/photo/1",
+				"display_url": "pic.twitter.com/XmRWnavT3m",
+				"url": "https://t.co/XmRWnavT3m",
+				"media_url_https": "https://pbs.twimg.com/media/CiiTZozWgAA3-TP.jpg",
+				"source_user_id_str": "205644304",
+				"source_status_id": 731997009289347072,
+				"id_str": "731997008106520576",
+				"sizes": {
+					"small": {
+						"h": 340,
+						"resize": "fit",
+						"w": 340
+					},
+					"large": {
+						"h": 600,
+						"resize": "fit",
+						"w": 600
+					},
+					"medium": {
+						"h": 600,
+						"resize": "fit",
+						"w": 600
+					},
+					"thumb": {
+						"h": 150,
+						"resize": "crop",
+						"w": 150
+					}
+				},
+				"indices": [139, 140],
+				"type": "photo",
+				"id": 731997008106520576,
+				"media_url": "http://pbs.twimg.com/media/CiiTZozWgAA3-TP.jpg"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 34,
+		"id_str": "732000813783130113",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "New Poll! \nGEORGIA\n#Trump 45% \n#CrookedHillary 41% \n#Trump2016\n#MakeAmericaGreatAgain \n'Taking Our Country Back!' https://t.co/XmRWnavT3m",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731997009289347072,
+			"favorite_count": 33,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [],
+				"hashtags": [{
+					"indices": [19, 25],
+					"text": "Trump"
+				}, {
+					"indices": [31, 46],
+					"text": "CrookedHillary"
+				}, {
+					"indices": [52, 62],
+					"text": "Trump2016"
+				}, {
+					"indices": [63, 85],
+					"text": "MakeAmericaGreatAgain"
+				}],
+				"urls": [],
+				"media": [{
+					"expanded_url": "http://twitter.com/trump_world/status/731997009289347072/photo/1",
+					"display_url": "pic.twitter.com/XmRWnavT3m",
+					"url": "https://t.co/XmRWnavT3m",
+					"media_url_https": "https://pbs.twimg.com/media/CiiTZozWgAA3-TP.jpg",
+					"id_str": "731997008106520576",
+					"sizes": {
+						"small": {
+							"h": 340,
+							"resize": "fit",
+							"w": 340
+						},
+						"large": {
+							"h": 600,
+							"resize": "fit",
+							"w": 600
+						},
+						"medium": {
+							"h": 600,
+							"resize": "fit",
+							"w": 600
+						},
+						"thumb": {
+							"h": 150,
+							"resize": "crop",
+							"w": 150
+						}
+					},
+					"indices": [114, 137],
+					"type": "photo",
+					"id": 731997008106520576,
+					"media_url": "http://pbs.twimg.com/media/CiiTZozWgAA3-TP.jpg"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 34,
+			"id_str": "731997009289347072",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": false,
+				"profile_use_background_image": true,
+				"default_profile_image": false,
+				"id": 205644304,
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/661505180098273280/ksLJ14G_.jpg",
+				"verified": false,
+				"profile_text_color": "000000",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/731716925433249792/5O6Y-dkz_normal.jpg",
+				"profile_sidebar_fill_color": "000000",
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 13641,
+				"profile_sidebar_border_color": "000000",
+				"id_str": "205644304",
+				"profile_background_color": "000000",
+				"listed_count": 143,
+				"is_translation_enabled": false,
+				"utc_offset": -25200,
+				"statuses_count": 18083,
+				"description": "OFFICIAL_TRUMP_WORLD - WIDE SUPPORT NETWORK - THE MOVEMENT 'Taking Out Country Back!' LOVE FEST #Trump  #Trump2016 Like a #BOSS #MakeAmericaGreatAgain",
+				"friends_count": 107,
+				"location": "Manhattan, New York",
+				"profile_link_color": "3B94D9",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/731716925433249792/5O6Y-dkz_normal.jpg",
+				"following": false,
+				"geo_enabled": false,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/205644304/1462912321",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/661505180098273280/ksLJ14G_.jpg",
+				"screen_name": "trump_world",
+				"lang": "en",
+				"profile_background_tile": false,
+				"favourites_count": 6645,
+				"name": "TRUMP WORLD",
+				"notifications": false,
+				"url": null,
+				"created_at": "Thu Oct 21 09:35:02 +0000 2010",
+				"contributors_enabled": false,
+				"time_zone": "Pacific Time (US & Canada)",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 23:57:41 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"default_profile_image": false,
+			"id": 168667405,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"verified": false,
+			"profile_text_color": "333333",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/719710141507981313/0jN51CNo_normal.jpg",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 431,
+			"profile_sidebar_border_color": "C0DEED",
+			"id_str": "168667405",
+			"profile_background_color": "C0DEED",
+			"listed_count": 0,
+			"is_translation_enabled": false,
+			"utc_offset": -14400,
+			"statuses_count": 11787,
+			"description": "#WomenForTrump #Trump2016 #TrumpTrain #MakeAmericaGreatAgain         #AlwaysTrump since 6-16-15",
+			"friends_count": 120,
+			"location": "Virginia, USA",
+			"profile_link_color": "0084B4",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/719710141507981313/0jN51CNo_normal.jpg",
+			"following": false,
+			"geo_enabled": false,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168667405/1457005115",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"screen_name": "BCCMMC3",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 67058,
+			"name": "Virginia\u2764\ufe0fTrump",
+			"notifications": false,
+			"url": null,
+			"created_at": "Tue Jul 20 13:53:02 +0000 2010",
+			"contributors_enabled": false,
+			"time_zone": "Eastern Time (US & Canada)",
+			"protected": false,
+			"default_profile": true,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:48 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @TrumpVsHilary: KEEP UP THE GOOD WORK! #TrumpStrong #AmericanStrong #MAGA #Trump2016 #NOmorePC https://https://t.co/t7znSlZprB\u00a0\u2026",
+		"is_quote_status": true,
+		"in_reply_to_status_id": null,
+		"id": 732000811333492736,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 725331518340620288,
+				"indices": [3, 17],
+				"id_str": "725331518340620288",
+				"screen_name": "TrumpVsHilary",
+				"name": "Trump Vs Hillary"
+			}],
+			"hashtags": [{
+				"indices": [42, 54],
+				"text": "TrumpStrong"
+			}, {
+				"indices": [55, 70],
+				"text": "AmericanStrong"
+			}, {
+				"indices": [71, 76],
+				"text": "MAGA"
+			}, {
+				"indices": [77, 87],
+				"text": "Trump2016"
+			}, {
+				"indices": [88, 97],
+				"text": "NOmorePC"
+			}],
+			"urls": [{
+				"url": "https://t.co/t7znSlZprB",
+				"indices": [106, 129],
+				"expanded_url": "http://twitter.com/TrumpForVets/status/731969400979476480",
+				"display_url": "twitter.com/TrumpForVets/s\u2026"
+			}]
+		},
+		"quoted_status_id": 731969400979476480,
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 4,
+		"id_str": "732000811333492736",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "KEEP UP THE GOOD WORK! #TrumpStrong #AmericanStrong #MAGA #Trump2016 #NOmorePC https://https://t.co/t7znSlZprB\u00a0\u2026",
+			"is_quote_status": true,
+			"in_reply_to_status_id": null,
+			"id": 731987599506739200,
+			"favorite_count": 3,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [],
+				"hashtags": [{
+					"indices": [23, 35],
+					"text": "TrumpStrong"
+				}, {
+					"indices": [36, 51],
+					"text": "AmericanStrong"
+				}, {
+					"indices": [52, 57],
+					"text": "MAGA"
+				}, {
+					"indices": [58, 68],
+					"text": "Trump2016"
+				}, {
+					"indices": [69, 78],
+					"text": "NOmorePC"
+				}],
+				"urls": [{
+					"url": "https://t.co/t7znSlZprB",
+					"indices": [87, 110],
+					"expanded_url": "http://twitter.com/TrumpForVets/status/731969400979476480",
+					"display_url": "twitter.com/TrumpForVets/s\u2026"
+				}]
+			},
+			"quoted_status_id": 731969400979476480,
+			"retweeted": false,
+			"coordinates": null,
+			"quoted_status": {
+				"contributors": null,
+				"truncated": false,
+				"text": "I just got blocked by @Rosie! My goal is to get blocked by all the celebs that hate @realDonaldTrump! @Cher earlier this week and now @Rosie",
+				"is_quote_status": false,
+				"in_reply_to_status_id": null,
+				"id": 731969400979476480,
+				"favorite_count": 69,
+				"entities": {
+					"symbols": [],
+					"user_mentions": [{
+						"id": 25203361,
+						"indices": [22, 28],
+						"id_str": "25203361",
+						"screen_name": "Rosie",
+						"name": "Rosie"
+					}, {
+						"id": 25073877,
+						"indices": [84, 100],
+						"id_str": "25073877",
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump"
+					}, {
+						"id": 124003770,
+						"indices": [102, 107],
+						"id_str": "124003770",
+						"screen_name": "cher",
+						"name": "Cher"
+					}, {
+						"id": 25203361,
+						"indices": [134, 140],
+						"id_str": "25203361",
+						"screen_name": "Rosie",
+						"name": "Rosie"
+					}],
+					"hashtags": [],
+					"urls": []
+				},
+				"retweeted": false,
+				"coordinates": null,
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_screen_name": null,
+				"in_reply_to_user_id": null,
+				"retweet_count": 41,
+				"id_str": "731969400979476480",
+				"favorited": false,
+				"user": {
+					"follow_request_sent": false,
+					"has_extended_profile": true,
+					"profile_use_background_image": false,
+					"default_profile_image": false,
+					"id": 713220523677892608,
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"verified": false,
+					"profile_text_color": "000000",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/725472189487550464/isrPVA2T_normal.jpg",
+					"profile_sidebar_fill_color": "000000",
+					"entities": {
+						"url": {
+							"urls": [{
+								"url": "https://t.co/mVHOxzYUNT",
+								"indices": [0, 23],
+								"expanded_url": "https://www.donaldjtrump.com/",
+								"display_url": "donaldjtrump.com"
+							}]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"followers_count": 3119,
+					"profile_sidebar_border_color": "000000",
+					"id_str": "713220523677892608",
+					"profile_background_color": "000000",
+					"listed_count": 1,
+					"is_translation_enabled": false,
+					"utc_offset": -14400,
+					"statuses_count": 4413,
+					"description": "#USARMY #VETERAN PROUDLY SERVED UNDER #RONALDREAGAN #NeverHillary #AlwaysTrump PROUDLY FOLLOWED NH REP @Al_Baldasaro  PROUDLY BLOCKED BY @CHER @ROSIE",
+					"friends_count": 3446,
+					"location": "Florida",
+					"profile_link_color": "0000FF",
+					"profile_image_url": "http://pbs.twimg.com/profile_images/725472189487550464/isrPVA2T_normal.jpg",
+					"following": false,
+					"geo_enabled": false,
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/713220523677892608/1461726438",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"screen_name": "TrumpForVets",
+					"lang": "en",
+					"profile_background_tile": false,
+					"favourites_count": 2887,
+					"name": "TRUMP FOR VETS",
+					"notifications": false,
+					"url": "https://t.co/mVHOxzYUNT",
+					"created_at": "Fri Mar 25 04:26:38 +0000 2016",
+					"contributors_enabled": false,
+					"time_zone": "Eastern Time (US & Canada)",
+					"protected": false,
+					"default_profile": false,
+					"is_translator": false
+				},
+				"geo": null,
+				"in_reply_to_user_id_str": null,
+				"lang": "en",
+				"created_at": "Sun May 15 22:07:59 +0000 2016",
+				"in_reply_to_status_id_str": null,
+				"place": null,
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				}
+			},
+			"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 4,
+			"id_str": "731987599506739200",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": true,
+				"profile_use_background_image": false,
+				"default_profile_image": false,
+				"id": 725331518340620288,
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"verified": false,
+				"profile_text_color": "000000",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725337915644104705/8_SRwRQX_normal.jpg",
+				"profile_sidebar_fill_color": "000000",
+				"entities": {
+					"description": {
+						"urls": [{
+							"url": "https://t.co/MzT2xszBEc",
+							"indices": [87, 110],
+							"expanded_url": "http://bit.ly/TrumpVsHilary",
+							"display_url": "bit.ly/TrumpVsHilary"
+						}]
+					}
+				},
+				"followers_count": 223,
+				"profile_sidebar_border_color": "000000",
+				"id_str": "725331518340620288",
+				"profile_background_color": "000000",
+				"listed_count": 41,
+				"is_translation_enabled": false,
+				"utc_offset": -25200,
+				"statuses_count": 7111,
+				"description": "Would you vote \u270e  for Trump or Hillary ? Let us know and receive a 100 $ gift card!  \u21aa https://t.co/MzT2xszBEc",
+				"friends_count": 109,
+				"location": "Etats-Unis",
+				"profile_link_color": "E81C4F",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725337915644104705/8_SRwRQX_normal.jpg",
+				"following": false,
+				"geo_enabled": false,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/725331518340620288/1461768485",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"screen_name": "TrumpVsHilary",
+				"lang": "en",
+				"profile_background_tile": false,
+				"favourites_count": 65,
+				"name": "Trump Vs Hillary",
+				"notifications": false,
+				"url": null,
+				"created_at": "Wed Apr 27 14:31:24 +0000 2016",
+				"contributors_enabled": false,
+				"time_zone": "Pacific Time (US & Canada)",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 23:20:18 +0000 2016",
+			"quoted_status_id_str": "731969400979476480",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": false,
+			"default_profile_image": false,
+			"id": 4847781730,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"verified": false,
+			"profile_text_color": "000000",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/719342350233829376/RnpAMiIw_normal.jpg",
+			"profile_sidebar_fill_color": "000000",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "https://t.co/ELH0oXzazA",
+						"indices": [0, 23],
+						"expanded_url": "http://www.noblefrenchies.com",
+						"display_url": "noblefrenchies.com"
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 1373,
+			"profile_sidebar_border_color": "000000",
+			"id_str": "4847781730",
+			"profile_background_color": "000000",
+			"listed_count": 117,
+			"is_translation_enabled": false,
+			"utc_offset": null,
+			"statuses_count": 38112,
+			"description": "Wife, mother, farmer, small biz owner who believes in the Constitution, smaller government, and the American Dream built on the freedom to choose for yourself.",
+			"friends_count": 1203,
+			"location": "Missouri, USA",
+			"profile_link_color": "1B95E0",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/719342350233829376/RnpAMiIw_normal.jpg",
+			"following": false,
+			"geo_enabled": false,
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"screen_name": "Casey5Zimmer",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 5580,
+			"name": "Casey Zimmer",
+			"notifications": false,
+			"url": "https://t.co/ELH0oXzazA",
+			"created_at": "Tue Jan 26 01:53:54 +0000 2016",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"protected": false,
+			"default_profile": false,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:47 +0000 2016",
+		"quoted_status_id_str": "731969400979476480",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @realDonaldTrump: Thank you Georgia! See you soon!\n#Trump2016 https://t.co/8yFd6qA4rD",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000809894875136,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 25073877,
+				"indices": [3, 19],
+				"id_str": "25073877",
+				"screen_name": "realDonaldTrump",
+				"name": "Donald J. Trump"
+			}],
+			"hashtags": [{
+				"indices": [54, 64],
+				"text": "Trump2016"
+			}],
+			"urls": [],
+			"media": [{
+				"source_user_id": 25073877,
+				"source_status_id_str": "731959001143988229",
+				"expanded_url": "http://twitter.com/realDonaldTrump/status/731959001143988229/photo/1",
+				"display_url": "pic.twitter.com/8yFd6qA4rD",
+				"url": "https://t.co/8yFd6qA4rD",
+				"media_url_https": "https://pbs.twimg.com/media/Cihw0Z0XEAE58rf.jpg",
+				"source_user_id_str": "25073877",
+				"source_status_id": 731959001143988229,
+				"id_str": "731958985033715713",
+				"sizes": {
+					"small": {
+						"h": 340,
+						"resize": "fit",
+						"w": 340
+					},
+					"large": {
+						"h": 1024,
+						"resize": "fit",
+						"w": 1024
+					},
+					"medium": {
+						"h": 600,
+						"resize": "fit",
+						"w": 600
+					},
+					"thumb": {
+						"h": 150,
+						"resize": "crop",
+						"w": 150
+					}
+				},
+				"indices": [65, 88],
+				"type": "photo",
+				"id": 731958985033715713,
+				"media_url": "http://pbs.twimg.com/media/Cihw0Z0XEAE58rf.jpg"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 2421,
+		"id_str": "732000809894875136",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "Thank you Georgia! See you soon!\n#Trump2016 https://t.co/8yFd6qA4rD",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731959001143988229,
+			"favorite_count": 8052,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [],
+				"hashtags": [{
+					"indices": [33, 43],
+					"text": "Trump2016"
+				}],
+				"urls": [],
+				"media": [{
+					"expanded_url": "http://twitter.com/realDonaldTrump/status/731959001143988229/photo/1",
+					"display_url": "pic.twitter.com/8yFd6qA4rD",
+					"url": "https://t.co/8yFd6qA4rD",
+					"media_url_https": "https://pbs.twimg.com/media/Cihw0Z0XEAE58rf.jpg",
+					"id_str": "731958985033715713",
+					"sizes": {
+						"small": {
+							"h": 340,
+							"resize": "fit",
+							"w": 340
+						},
+						"large": {
+							"h": 1024,
+							"resize": "fit",
+							"w": 1024
+						},
+						"medium": {
+							"h": 600,
+							"resize": "fit",
+							"w": 600
+						},
+						"thumb": {
+							"h": 150,
+							"resize": "crop",
+							"w": 150
+						}
+					},
+					"indices": [44, 67],
+					"type": "photo",
+					"id": 731958985033715713,
+					"media_url": "http://pbs.twimg.com/media/Cihw0Z0XEAE58rf.jpg"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 2421,
+			"id_str": "731959001143988229",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": false,
+				"profile_use_background_image": true,
+				"default_profile_image": false,
+				"id": 25073877,
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+				"verified": true,
+				"profile_text_color": "333333",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1980294624/DJT_Headshot_V2_normal.jpg",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"entities": {
+					"url": {
+						"urls": [{
+							"url": "https://t.co/mZB2hymxC9",
+							"indices": [0, 23],
+							"expanded_url": "http://www.DonaldJTrump.com",
+							"display_url": "DonaldJTrump.com"
+						}]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 8216236,
+				"profile_sidebar_border_color": "BDDCAD",
+				"id_str": "25073877",
+				"profile_background_color": "6D5C18",
+				"listed_count": 33472,
+				"is_translation_enabled": true,
+				"utc_offset": -14400,
+				"statuses_count": 31944,
+				"description": "#MakeAmericaGreatAgain #Trump2016",
+				"friends_count": 40,
+				"location": "New York, NY",
+				"profile_link_color": "0D5B73",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1980294624/DJT_Headshot_V2_normal.jpg",
+				"following": false,
+				"geo_enabled": true,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1462405914",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+				"screen_name": "realDonaldTrump",
+				"lang": "en",
+				"profile_background_tile": true,
+				"favourites_count": 86,
+				"name": "Donald J. Trump",
+				"notifications": false,
+				"url": "https://t.co/mZB2hymxC9",
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"contributors_enabled": false,
+				"time_zone": "Eastern Time (US & Canada)",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 21:26:39 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"default_profile_image": false,
+			"id": 1173768188,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"verified": false,
+			"profile_text_color": "333333",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/678402338923638784/BCF2rpbD_normal.jpg",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 3535,
+			"profile_sidebar_border_color": "C0DEED",
+			"id_str": "1173768188",
+			"profile_background_color": "C0DEED",
+			"listed_count": 45,
+			"is_translation_enabled": false,
+			"utc_offset": null,
+			"statuses_count": 13328,
+			"description": "TRUMP WILL BE THE BEST PRESIDENT IN MY LIFETIME !",
+			"friends_count": 4022,
+			"location": "Naples, Fl",
+			"profile_link_color": "0084B4",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/678402338923638784/BCF2rpbD_normal.jpg",
+			"following": false,
+			"geo_enabled": false,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1173768188/1450502766",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"screen_name": "debra55555",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 9339,
+			"name": "VOTE FOR   T R U M P",
+			"notifications": false,
+			"url": null,
+			"created_at": "Wed Feb 13 03:25:45 +0000 2013",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"protected": false,
+			"default_profile": true,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:47 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @DanScavino: \"A nation that cannot control its borders is not a nation.\" Ronald Reagan\n#MakeAmericaGreatAgain #Trump2016 https://t.co/Mj\u2026",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000807852236800,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 620571475,
+				"indices": [3, 14],
+				"id_str": "620571475",
+				"screen_name": "DanScavino",
+				"name": "Dan Scavino Jr."
+			}],
+			"hashtags": [{
+				"indices": [90, 112],
+				"text": "MakeAmericaGreatAgain"
+			}, {
+				"indices": [113, 123],
+				"text": "Trump2016"
+			}],
+			"urls": [],
+			"media": [{
+				"source_user_id": 620571475,
+				"source_status_id_str": "731906814074343424",
+				"expanded_url": "http://twitter.com/DanScavino/status/731906814074343424/photo/1",
+				"display_url": "pic.twitter.com/Mjen4PdFEp",
+				"url": "https://t.co/Mjen4PdFEp",
+				"media_url_https": "https://pbs.twimg.com/media/CihBWfEVEAAw7QY.jpg",
+				"source_user_id_str": "620571475",
+				"source_status_id": 731906814074343424,
+				"id_str": "731906794000289792",
+				"sizes": {
+					"small": {
+						"h": 167,
+						"resize": "fit",
+						"w": 340
+					},
+					"large": {
+						"h": 503,
+						"resize": "fit",
+						"w": 1024
+					},
+					"medium": {
+						"h": 294,
+						"resize": "fit",
+						"w": 600
+					},
+					"thumb": {
+						"h": 150,
+						"resize": "crop",
+						"w": 150
+					}
+				},
+				"indices": [124, 140],
+				"type": "photo",
+				"id": 731906794000289792,
+				"media_url": "http://pbs.twimg.com/media/CihBWfEVEAAw7QY.jpg"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 1238,
+		"id_str": "732000807852236800",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "\"A nation that cannot control its borders is not a nation.\" Ronald Reagan\n#MakeAmericaGreatAgain #Trump2016 https://t.co/Mjen4PdFEp",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731906814074343424,
+			"favorite_count": 1607,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [],
+				"hashtags": [{
+					"indices": [74, 96],
+					"text": "MakeAmericaGreatAgain"
+				}, {
+					"indices": [97, 107],
+					"text": "Trump2016"
+				}],
+				"urls": [],
+				"media": [{
+					"expanded_url": "http://twitter.com/DanScavino/status/731906814074343424/photo/1",
+					"display_url": "pic.twitter.com/Mjen4PdFEp",
+					"url": "https://t.co/Mjen4PdFEp",
+					"media_url_https": "https://pbs.twimg.com/media/CihBWfEVEAAw7QY.jpg",
+					"id_str": "731906794000289792",
+					"sizes": {
+						"small": {
+							"h": 167,
+							"resize": "fit",
+							"w": 340
+						},
+						"large": {
+							"h": 503,
+							"resize": "fit",
+							"w": 1024
+						},
+						"medium": {
+							"h": 294,
+							"resize": "fit",
+							"w": 600
+						},
+						"thumb": {
+							"h": 150,
+							"resize": "crop",
+							"w": 150
+						}
+					},
+					"indices": [108, 131],
+					"type": "photo",
+					"id": 731906794000289792,
+					"media_url": "http://pbs.twimg.com/media/CihBWfEVEAAw7QY.jpg"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 1238,
+			"id_str": "731906814074343424",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": false,
+				"profile_use_background_image": true,
+				"default_profile_image": false,
+				"id": 620571475,
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627165912412626944/ycCg68Qq.jpg",
+				"verified": true,
+				"profile_text_color": "000000",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725919869485486080/QzKhdkEC_normal.jpg",
+				"profile_sidebar_fill_color": "000000",
+				"entities": {
+					"url": {
+						"urls": [{
+							"url": "https://t.co/mZB2hymxC9",
+							"indices": [0, 23],
+							"expanded_url": "http://www.DonaldJTrump.com",
+							"display_url": "DonaldJTrump.com"
+						}]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 98212,
+				"profile_sidebar_border_color": "000000",
+				"id_str": "620571475",
+				"profile_background_color": "131516",
+				"listed_count": 1079,
+				"is_translation_enabled": false,
+				"utc_offset": -14400,
+				"statuses_count": 7102,
+				"description": "Director of Social Media & Senior Adviser. Check out @realDonaldTrump #Twitter #Facebook #Instagram! #SMM #MakeAmericaGreatAgain Engineer of the #TrumpTrain",
+				"friends_count": 158,
+				"location": "Campaign Trail, USA",
+				"profile_link_color": "3B94D9",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725919869485486080/QzKhdkEC_normal.jpg",
+				"following": false,
+				"geo_enabled": true,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1462470846",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627165912412626944/ycCg68Qq.jpg",
+				"screen_name": "DanScavino",
+				"lang": "en",
+				"profile_background_tile": true,
+				"favourites_count": 2140,
+				"name": "Dan Scavino Jr.",
+				"notifications": false,
+				"url": "https://t.co/mZB2hymxC9",
+				"created_at": "Thu Jun 28 02:45:39 +0000 2012",
+				"contributors_enabled": false,
+				"time_zone": "Eastern Time (US & Canada)",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 17:59:17 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"default_profile_image": false,
+			"id": 613048145,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"verified": false,
+			"profile_text_color": "333333",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/693341453985124352/mYYG6-Op_normal.jpg",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 85,
+			"profile_sidebar_border_color": "C0DEED",
+			"id_str": "613048145",
+			"profile_background_color": "C0DEED",
+			"listed_count": 35,
+			"is_translation_enabled": false,
+			"utc_offset": null,
+			"statuses_count": 8554,
+			"description": "",
+			"friends_count": 101,
+			"location": "",
+			"profile_link_color": "0084B4",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/693341453985124352/mYYG6-Op_normal.jpg",
+			"following": false,
+			"geo_enabled": false,
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"screen_name": "deestar99",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 5150,
+			"name": "Mysteriously Unnamed",
+			"notifications": false,
+			"url": null,
+			"created_at": "Wed Jun 20 02:15:09 +0000 2012",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"protected": false,
+			"default_profile": true,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:47 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @LindaSuhler: How Mexico Will Be Compelled To Pay For The Wall\n#SecureTheBorder\n\u2714 VOTE #Trump2016\n#MAGA\nhttps://t.co/cA9oxkMzvt https://\u2026",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000799639769088,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 347627434,
+				"indices": [3, 15],
+				"id_str": "347627434",
+				"screen_name": "LindaSuhler",
+				"name": "Linda Suhler, Ph.D."
+			}],
+			"hashtags": [{
+				"indices": [66, 82],
+				"text": "SecureTheBorder"
+			}, {
+				"indices": [90, 100],
+				"text": "Trump2016"
+			}, {
+				"indices": [101, 106],
+				"text": "MAGA"
+			}],
+			"urls": [{
+				"url": "https://t.co/cA9oxkMzvt",
+				"indices": [107, 130],
+				"expanded_url": "https://www.donaldjtrump.com/positions/pay-for-the-wallpo",
+				"display_url": "donaldjtrump.com/positions/pay-\u2026"
+			}],
+			"media": [{
+				"source_user_id": 347627434,
+				"source_status_id_str": "731964018521300992",
+				"expanded_url": "http://twitter.com/LindaSuhler/status/731964018521300992/photo/1",
+				"display_url": "pic.twitter.com/N3hTftchVv",
+				"url": "https://t.co/N3hTftchVv",
+				"media_url_https": "https://pbs.twimg.com/media/Cih1ZWxU4AENBQN.jpg",
+				"source_user_id_str": "347627434",
+				"source_status_id": 731964018521300992,
+				"id_str": "731964017917353985",
+				"sizes": {
+					"small": {
+						"h": 246,
+						"resize": "fit",
+						"w": 340
+					},
+					"large": {
+						"h": 489,
+						"resize": "fit",
+						"w": 676
+					},
+					"medium": {
+						"h": 434,
+						"resize": "fit",
+						"w": 600
+					},
+					"thumb": {
+						"h": 150,
+						"resize": "crop",
+						"w": 150
+					}
+				},
+				"indices": [139, 140],
+				"type": "photo",
+				"id": 731964017917353985,
+				"media_url": "http://pbs.twimg.com/media/Cih1ZWxU4AENBQN.jpg"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 115,
+		"id_str": "732000799639769088",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "How Mexico Will Be Compelled To Pay For The Wall\n#SecureTheBorder\n\u2714 VOTE #Trump2016\n#MAGA\nhttps://t.co/cA9oxkMzvt https://t.co/N3hTftchVv",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731964018521300992,
+			"favorite_count": 137,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [],
+				"hashtags": [{
+					"indices": [49, 65],
+					"text": "SecureTheBorder"
+				}, {
+					"indices": [73, 83],
+					"text": "Trump2016"
+				}, {
+					"indices": [84, 89],
+					"text": "MAGA"
+				}],
+				"urls": [{
+					"url": "https://t.co/cA9oxkMzvt",
+					"indices": [90, 113],
+					"expanded_url": "https://www.donaldjtrump.com/positions/pay-for-the-wallpo",
+					"display_url": "donaldjtrump.com/positions/pay-\u2026"
+				}],
+				"media": [{
+					"expanded_url": "http://twitter.com/LindaSuhler/status/731964018521300992/photo/1",
+					"display_url": "pic.twitter.com/N3hTftchVv",
+					"url": "https://t.co/N3hTftchVv",
+					"media_url_https": "https://pbs.twimg.com/media/Cih1ZWxU4AENBQN.jpg",
+					"id_str": "731964017917353985",
+					"sizes": {
+						"small": {
+							"h": 246,
+							"resize": "fit",
+							"w": 340
+						},
+						"large": {
+							"h": 489,
+							"resize": "fit",
+							"w": 676
+						},
+						"medium": {
+							"h": 434,
+							"resize": "fit",
+							"w": 600
+						},
+						"thumb": {
+							"h": 150,
+							"resize": "crop",
+							"w": 150
+						}
+					},
+					"indices": [114, 137],
+					"type": "photo",
+					"id": 731964017917353985,
+					"media_url": "http://pbs.twimg.com/media/Cih1ZWxU4AENBQN.jpg"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 115,
+			"id_str": "731964018521300992",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": false,
+				"profile_use_background_image": true,
+				"default_profile_image": false,
+				"id": 347627434,
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/691013490786480128/DOyk-OXN.png",
+				"verified": false,
+				"profile_text_color": "333333",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695707690052378625/hFDUabnq_normal.png",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"entities": {
+					"url": {
+						"urls": [{
+							"url": "https://t.co/q1fY4qd8kt",
+							"indices": [0, 23],
+							"expanded_url": "http://www.facebook.com/LindaCSuhler",
+							"display_url": "facebook.com/LindaCSuhler"
+						}]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 220771,
+				"profile_sidebar_border_color": "FFFFFF",
+				"id_str": "347627434",
+				"profile_background_color": "3B94D9",
+				"listed_count": 1827,
+				"is_translation_enabled": false,
+				"utc_offset": -25200,
+				"statuses_count": 178413,
+				"description": "Support Donald Trump for President! AMERICA FIRST Christian supports Family~Constitution~Capitalism~ 2A~NRA~Military~Police~Israel #SecureTheBorder #TeamTrump",
+				"friends_count": 131239,
+				"location": "God Bless America!",
+				"profile_link_color": "DD2E44",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695707690052378625/hFDUabnq_normal.png",
+				"following": false,
+				"geo_enabled": true,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/347627434/1462987104",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691013490786480128/DOyk-OXN.png",
+				"screen_name": "LindaSuhler",
+				"lang": "en",
+				"profile_background_tile": true,
+				"favourites_count": 14323,
+				"name": "Linda Suhler, Ph.D.",
+				"notifications": false,
+				"url": "https://t.co/q1fY4qd8kt",
+				"created_at": "Wed Aug 03 03:00:30 +0000 2011",
+				"contributors_enabled": false,
+				"time_zone": "Arizona",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 21:46:35 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": {
+				"country_code": "US",
+				"url": "https://api.twitter.com/1.1/geo/id/0a0de7bd49ef942d.json",
+				"country": "United States",
+				"place_type": "city",
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[-111.960775, 33.4358637],
+							[-111.756022, 33.4358637],
+							[-111.756022, 33.842816],
+							[-111.960775, 33.842816]
+						]
+					]
+				},
+				"contained_within": [],
+				"full_name": "Scottsdale, AZ",
+				"attributes": {},
+				"id": "0a0de7bd49ef942d",
+				"name": "Scottsdale"
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"default_profile_image": false,
+			"id": 718818344309231616,
+			"profile_background_image_url_https": null,
+			"verified": false,
+			"profile_text_color": "333333",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/718819591888089089/oDLZHOtx_normal.jpg",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 659,
+			"profile_sidebar_border_color": "C0DEED",
+			"id_str": "718818344309231616",
+			"profile_background_color": "F5F8FA",
+			"listed_count": 19,
+			"is_translation_enabled": false,
+			"utc_offset": null,
+			"statuses_count": 7969,
+			"description": "Lover of Life Singer of Songs",
+			"friends_count": 793,
+			"location": "",
+			"profile_link_color": "2B7BB9",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/718819591888089089/oDLZHOtx_normal.jpg",
+			"following": false,
+			"geo_enabled": true,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718818344309231616/1462112971",
+			"profile_background_image_url": null,
+			"screen_name": "dvfreddiem",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 3054,
+			"name": "D",
+			"notifications": false,
+			"url": null,
+			"created_at": "Sat Apr 09 15:10:23 +0000 2016",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"protected": false,
+			"default_profile": true,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:45 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @DanScavino: \".@realDonaldTrump has re-written the playbook.\" Chairman @Reince Priebus \n#MakeAmericaGreatAgain #Trump2016\nhttps://t.co/d\u2026",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000784007598080,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 620571475,
+				"indices": [3, 14],
+				"id_str": "620571475",
+				"screen_name": "DanScavino",
+				"name": "Dan Scavino Jr."
+			}, {
+				"id": 25073877,
+				"indices": [18, 34],
+				"id_str": "25073877",
+				"screen_name": "realDonaldTrump",
+				"name": "Donald J. Trump"
+			}, {
+				"id": 20733972,
+				"indices": [74, 81],
+				"id_str": "20733972",
+				"screen_name": "Reince",
+				"name": "Reince Priebus"
+			}],
+			"hashtags": [{
+				"indices": [91, 113],
+				"text": "MakeAmericaGreatAgain"
+			}, {
+				"indices": [114, 124],
+				"text": "Trump2016"
+			}],
+			"urls": [{
+				"url": "https://t.co/dKQv2uiXUg",
+				"indices": [125, 140],
+				"expanded_url": "http://snpy.tv/1sex0a3",
+				"display_url": "snpy.tv/1sex0a3"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 146,
+		"id_str": "732000784007598080",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "\".@realDonaldTrump has re-written the playbook.\" Chairman @Reince Priebus \n#MakeAmericaGreatAgain #Trump2016\nhttps://t.co/dKQv2uiXUg",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731995020425891840,
+			"favorite_count": 212,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [{
+					"id": 25073877,
+					"indices": [2, 18],
+					"id_str": "25073877",
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump"
+				}, {
+					"id": 20733972,
+					"indices": [58, 65],
+					"id_str": "20733972",
+					"screen_name": "Reince",
+					"name": "Reince Priebus"
+				}],
+				"hashtags": [{
+					"indices": [75, 97],
+					"text": "MakeAmericaGreatAgain"
+				}, {
+					"indices": [98, 108],
+					"text": "Trump2016"
+				}],
+				"urls": [{
+					"url": "https://t.co/dKQv2uiXUg",
+					"indices": [109, 132],
+					"expanded_url": "http://snpy.tv/1sex0a3",
+					"display_url": "snpy.tv/1sex0a3"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 146,
+			"id_str": "731995020425891840",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": false,
+				"profile_use_background_image": true,
+				"default_profile_image": false,
+				"id": 620571475,
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627165912412626944/ycCg68Qq.jpg",
+				"verified": true,
+				"profile_text_color": "000000",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725919869485486080/QzKhdkEC_normal.jpg",
+				"profile_sidebar_fill_color": "000000",
+				"entities": {
+					"url": {
+						"urls": [{
+							"url": "https://t.co/mZB2hymxC9",
+							"indices": [0, 23],
+							"expanded_url": "http://www.DonaldJTrump.com",
+							"display_url": "DonaldJTrump.com"
+						}]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 98212,
+				"profile_sidebar_border_color": "000000",
+				"id_str": "620571475",
+				"profile_background_color": "131516",
+				"listed_count": 1079,
+				"is_translation_enabled": false,
+				"utc_offset": -14400,
+				"statuses_count": 7102,
+				"description": "Director of Social Media & Senior Adviser. Check out @realDonaldTrump #Twitter #Facebook #Instagram! #SMM #MakeAmericaGreatAgain Engineer of the #TrumpTrain",
+				"friends_count": 158,
+				"location": "Campaign Trail, USA",
+				"profile_link_color": "3B94D9",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725919869485486080/QzKhdkEC_normal.jpg",
+				"following": false,
+				"geo_enabled": true,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1462470846",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627165912412626944/ycCg68Qq.jpg",
+				"screen_name": "DanScavino",
+				"lang": "en",
+				"profile_background_tile": true,
+				"favourites_count": 2140,
+				"name": "Dan Scavino Jr.",
+				"notifications": false,
+				"url": "https://t.co/mZB2hymxC9",
+				"created_at": "Thu Jun 28 02:45:39 +0000 2012",
+				"contributors_enabled": false,
+				"time_zone": "Eastern Time (US & Canada)",
+				"protected": false,
+				"default_profile": false,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Sun May 15 23:49:47 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"default_profile_image": false,
+			"id": 3291902538,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"verified": false,
+			"profile_text_color": "333333",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/724029970394181636/kCuIAxAx_normal.jpg",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 1227,
+			"profile_sidebar_border_color": "C0DEED",
+			"id_str": "3291902538",
+			"profile_background_color": "C0DEED",
+			"listed_count": 3,
+			"is_translation_enabled": false,
+			"utc_offset": null,
+			"statuses_count": 12158,
+			"description": "I believe we are saved by Jesus Christ's (God Incarnate) transforming grace alone, by faith only, in Christ alone. I believe in the trinity & the 5 Solas #MAGA",
+			"friends_count": 1075,
+			"location": "",
+			"profile_link_color": "0084B4",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/724029970394181636/kCuIAxAx_normal.jpg",
+			"following": false,
+			"geo_enabled": true,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291902538/1456628967",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"screen_name": "LeeBrya88882595",
+			"lang": "en",
+			"profile_background_tile": false,
+			"favourites_count": 23559,
+			"name": "Lee Bryant",
+			"notifications": false,
+			"url": null,
+			"created_at": "Sat Jul 25 05:51:17 +0000 2015",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"protected": false,
+			"default_profile": true,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:41 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}, {
+		"contributors": null,
+		"truncated": false,
+		"text": "RT @thetimewasthen: #HandCuffHillary\n\n47 Clinton Friends Who Mysteriously Died\u203c\ufe0f https://t.co/wVVZwHHfn8 via @BestRDSP\n\n#Trump2016 https://\u2026",
+		"is_quote_status": false,
+		"in_reply_to_status_id": null,
+		"id": 732000781273038848,
+		"favorite_count": 0,
+		"entities": {
+			"symbols": [],
+			"user_mentions": [{
+				"id": 3682896378,
+				"indices": [3, 18],
+				"id_str": "3682896378",
+				"screen_name": "thetimewasthen",
+				"name": "Lady #MAGA ~Bethany"
+			}, {
+				"id": 159478788,
+				"indices": [109, 118],
+				"id_str": "159478788",
+				"screen_name": "BestRDSP",
+				"name": "RDSP"
+			}],
+			"hashtags": [{
+				"indices": [20, 36],
+				"text": "HandCuffHillary"
+			}, {
+				"indices": [120, 130],
+				"text": "Trump2016"
+			}],
+			"urls": [{
+				"url": "https://t.co/wVVZwHHfn8",
+				"indices": [81, 104],
+				"expanded_url": "http://goo.gl/XYFIE0",
+				"display_url": "goo.gl/XYFIE0"
+			}],
+			"media": [{
+				"source_user_id": 3682896378,
+				"source_status_id_str": "731999676451299329",
+				"expanded_url": "http://twitter.com/thetimewasthen/status/731999676451299329/photo/1",
+				"display_url": "pic.twitter.com/tDd05KxWdP",
+				"url": "https://t.co/tDd05KxWdP",
+				"media_url_https": "https://pbs.twimg.com/media/CiiV0bgWwAAiVFs.jpg",
+				"source_user_id_str": "3682896378",
+				"source_status_id": 731999676451299329,
+				"id_str": "731999667416907776",
+				"sizes": {
+					"large": {
+						"h": 211,
+						"resize": "fit",
+						"w": 750
+					},
+					"small": {
+						"h": 96,
+						"resize": "fit",
+						"w": 340
+					},
+					"medium": {
+						"h": 169,
+						"resize": "fit",
+						"w": 600
+					},
+					"thumb": {
+						"h": 150,
+						"resize": "crop",
+						"w": 150
+					}
+				},
+				"indices": [139, 140],
+				"type": "photo",
+				"id": 731999667416907776,
+				"media_url": "http://pbs.twimg.com/media/CiiV0bgWwAAiVFs.jpg"
+			}]
+		},
+		"retweeted": false,
+		"coordinates": null,
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_screen_name": null,
+		"in_reply_to_user_id": null,
+		"retweet_count": 2,
+		"id_str": "732000781273038848",
+		"favorited": false,
+		"retweeted_status": {
+			"contributors": null,
+			"truncated": false,
+			"text": "#HandCuffHillary\n\n47 Clinton Friends Who Mysteriously Died\u203c\ufe0f https://t.co/wVVZwHHfn8 via @BestRDSP\n\n#Trump2016 https://t.co/tDd05KxWdP",
+			"is_quote_status": false,
+			"in_reply_to_status_id": null,
+			"id": 731999676451299329,
+			"favorite_count": 2,
+			"entities": {
+				"symbols": [],
+				"user_mentions": [{
+					"id": 159478788,
+					"indices": [89, 98],
+					"id_str": "159478788",
+					"screen_name": "BestRDSP",
+					"name": "RDSP"
+				}],
+				"hashtags": [{
+					"indices": [0, 16],
+					"text": "HandCuffHillary"
+				}, {
+					"indices": [100, 110],
+					"text": "Trump2016"
+				}],
+				"urls": [{
+					"url": "https://t.co/wVVZwHHfn8",
+					"indices": [61, 84],
+					"expanded_url": "http://goo.gl/XYFIE0",
+					"display_url": "goo.gl/XYFIE0"
+				}],
+				"media": [{
+					"expanded_url": "http://twitter.com/thetimewasthen/status/731999676451299329/photo/1",
+					"display_url": "pic.twitter.com/tDd05KxWdP",
+					"url": "https://t.co/tDd05KxWdP",
+					"media_url_https": "https://pbs.twimg.com/media/CiiV0bgWwAAiVFs.jpg",
+					"id_str": "731999667416907776",
+					"sizes": {
+						"large": {
+							"h": 211,
+							"resize": "fit",
+							"w": 750
+						},
+						"small": {
+							"h": 96,
+							"resize": "fit",
+							"w": 340
+						},
+						"medium": {
+							"h": 169,
+							"resize": "fit",
+							"w": 600
+						},
+						"thumb": {
+							"h": 150,
+							"resize": "crop",
+							"w": 150
+						}
+					},
+					"indices": [111, 134],
+					"type": "photo",
+					"id": 731999667416907776,
+					"media_url": "http://pbs.twimg.com/media/CiiV0bgWwAAiVFs.jpg"
+				}]
+			},
+			"retweeted": false,
+			"coordinates": null,
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_screen_name": null,
+			"in_reply_to_user_id": null,
+			"retweet_count": 2,
+			"id_str": "731999676451299329",
+			"favorited": false,
+			"user": {
+				"follow_request_sent": false,
+				"has_extended_profile": false,
+				"profile_use_background_image": true,
+				"default_profile_image": false,
+				"id": 3682896378,
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"verified": false,
+				"profile_text_color": "333333",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/731935794424745984/ayEJGyh9_normal.jpg",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"followers_count": 2451,
+				"profile_sidebar_border_color": "C0DEED",
+				"id_str": "3682896378",
+				"profile_background_color": "C0DEED",
+				"listed_count": 43,
+				"is_translation_enabled": false,
+				"utc_offset": null,
+				"statuses_count": 20198,
+				"description": "SNARKY TRUMP SUPPORTER ~ I BLOCK AT MY DISCRETION\u203c\ufe0f #Vote #Trump2016 #AmericaFirst May17: #OR May24 #WA June7: #CA #MT #NJ #SD #NM #Veterans #Economy #Trade",
+				"friends_count": 2365,
+				"location": "Buford, GA via MI Japan CA IL ",
+				"profile_link_color": "0084B4",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/731935794424745984/ayEJGyh9_normal.jpg",
+				"following": false,
+				"geo_enabled": false,
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3682896378/1463060009",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"screen_name": "thetimewasthen",
+				"lang": "en",
+				"profile_background_tile": false,
+				"favourites_count": 13487,
+				"name": "Lady #MAGA ~Bethany",
+				"notifications": false,
+				"url": null,
+				"created_at": "Fri Sep 25 15:54:59 +0000 2015",
+				"contributors_enabled": false,
+				"time_zone": null,
+				"protected": false,
+				"default_profile": true,
+				"is_translator": false
+			},
+			"geo": null,
+			"in_reply_to_user_id_str": null,
+			"possibly_sensitive": false,
+			"lang": "en",
+			"created_at": "Mon May 16 00:08:17 +0000 2016",
+			"in_reply_to_status_id_str": null,
+			"place": null,
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			}
+		},
+		"user": {
+			"follow_request_sent": false,
+			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"default_profile_image": false,
+			"id": 159478788,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"verified": false,
+			"profile_text_color": "333333",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/713143391148711939/bo6r21cH_normal.jpg",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"followers_count": 9328,
+			"profile_sidebar_border_color": "EEEEEE",
+			"id_str": "159478788",
+			"profile_background_color": "131516",
+			"listed_count": 115,
+			"is_translation_enabled": false,
+			"utc_offset": -18000,
+			"statuses_count": 41114,
+			"description": "Don Quixote of Education. Marketing Marvel. Some times Serious. Sometimes Fun. Sometimes serious Fun! If U Believed U R a #DemFool",
+			"friends_count": 7789,
+			"location": "Alabama/Florida",
+			"profile_link_color": "009999",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/713143391148711939/bo6r21cH_normal.jpg",
+			"following": false,
+			"geo_enabled": true,
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159478788/1455160352",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"screen_name": "BestRDSP",
+			"lang": "en",
+			"profile_background_tile": true,
+			"favourites_count": 1858,
+			"name": "RDSP",
+			"notifications": false,
+			"url": null,
+			"created_at": "Fri Jun 25 13:50:20 +0000 2010",
+			"contributors_enabled": false,
+			"time_zone": "Central Time (US & Canada)",
+			"protected": false,
+			"default_profile": false,
+			"is_translator": false
+		},
+		"geo": null,
+		"in_reply_to_user_id_str": null,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"created_at": "Mon May 16 00:12:40 +0000 2016",
+		"in_reply_to_status_id_str": null,
+		"place": null,
+		"metadata": {
+			"iso_language_code": "en",
+			"result_type": "recent"
+		}
+	}]
+}

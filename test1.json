@@ -1,0 +1,15 @@
+{
+"zipcode":"00544",
+"current":{"canwc":null,"cig":7000,"class":"observation"},
+"triggers":[178,30,176,103,179,112,21,20,48,7,50,40,57]
+}
+{
+"zipcode":"00601",
+"current":{"canwc":null,"cig":null,"class":"observation"},
+"triggers":[12,23,34,28,100]
+}
+{
+"zipcode":"00602",
+"current":{"canwc":null,"cig":null,"class":"observation"},
+"triggers":[13,85,43,101,38,31]
+}
